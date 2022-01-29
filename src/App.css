@@ -1,18 +1,31 @@
 .App {
-  background-color: #ddffdd;
-  width: 400px;
+  background-color: #ffffff;
+  width: 550px;
   height: 100%;;
   margin: auto;
+  
 }
 
 .userlist {
-
+  background-color: #00ccff;
+  width: 100%;
+  height: 5%;
+  margin: auto;
+  text-align: center;
 }
 
 .chat {
-
+  background-color: #70e2ff;
+  width: 100%;
+  height: 90%;
+  margin: auto;
+  text-align: center;
 }
 
 .inputbox {
-  
+  background-color: #00ccff;
+  width: 100%;
+  height: 5%;
+  margin: auto;
+  text-align: center;
 }
