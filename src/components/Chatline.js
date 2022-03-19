@@ -42,7 +42,7 @@ function Chatline (props) {
       //Bonus
       fetch("https://dog.ceo/api/breeds/image/random")
         .then(res => res.json())
-        .then(data => setElement(data.message));
+        .then(data => setElement("<img src='"+data.message+"'/>"));
     } 
     
   };
